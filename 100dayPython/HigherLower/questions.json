@@ -1,0 +1,142 @@
+[
+  {
+    "name": "Cristiano Ronaldo",
+    "sport": "Soccer",
+    "total_earning": 260,
+    "on_field": 200,
+    "off_field": 60
+  },
+  {
+    "name": "Jon Rahm",
+    "sport": "Golf",
+    "total_earning": 218,
+    "on_field": 198,
+    "off_field": 20
+  },
+  {
+    "name": "Lionel Messi",
+    "sport": "Soccer",
+    "total_earning": 135,
+    "on_field": 65,
+    "off_field": 70
+  },
+  {
+    "name": "LeBron James",
+    "sport": "Basketball",
+    "total_earning": 128.2,
+    "on_field": 48.2,
+    "off_field": 80
+  },
+  {
+    "name": "Giannis Antetokounmpo",
+    "sport": "Basketball",
+    "total_earning": 111,
+    "on_field": 46,
+    "off_field": 65
+  },
+  {
+    "name": "Kylian Mbappé",
+    "sport": "Soccer",
+    "total_earning": 110,
+    "on_field": 90,
+    "off_field": 60
+  },
+  {
+    "name": "Neymar",
+    "sport": "Soccer",
+    "total_earning": 108,
+    "on_field": 80,
+    "off_field": 28
+  },
+  {
+    "name": "Karim Benzema",
+    "sport": "Soccer",
+    "total_earning": 106,
+    "on_field": 100,
+    "off_field": 6
+  },
+  {
+    "name": "Stephen Curry",
+    "sport": "Basketball",
+    "total_earning": 102,
+    "on_field": 52,
+    "off_field": 50
+  },
+  {
+    "name": "Lamar Jackson",
+    "sport": "Football",
+    "total_earning": 100.5,
+    "on_field": 98.5,
+    "off_field": 2
+  },
+  {
+    "name": "Joe Burrow",
+    "sport": "Football",
+    "total_earning": 100,
+    "on_field": 96,
+    "off_field": 4
+  },
+  {
+    "name": "Kevin Durant",
+    "sport": "Basketball",
+    "total_earning": 93.3,
+    "on_field": 47.8,
+    "off_field": 45.5
+  },
+  {
+    "name": "Shohei Ohtani",
+    "sport": "Baseball",
+    "total_earning": 85.3,
+    "on_field": 25.3,
+    "off_field": 60
+  },
+  {
+    "name": "Canelo Alvarez",
+    "sport": "Boxing",
+    "total_earning": 85,
+    "on_field": 75,
+    "off_field": 10
+  },
+  {
+    "name": "Patrick Mahomes",
+    "sport": "Football",
+    "total_earning": 84,
+    "on_field": 59.4,
+    "off_field": 25
+  },
+  {
+    "name": "Anthony Joshua",
+    "sport": "Boxing",
+    "total_earning": 83,
+    "on_field": 75,
+    "off_field": 8
+  },
+  {
+    "name": "Max Verstappen",
+    "sport": "Auto Racing",
+    "total_earning": 8,
+    "on_field": 76,
+    "off_field": 5
+  },
+  {
+    "name": "Aaron Rodgers",
+    "sport": "Football",
+    "total_earning": 80.8,
+    "on_field": 71.8,
+    "off_field": 9
+  },
+  {
+    "name": "Rory McIlroy",
+    "sport": "Golf",
+    "total_earning": 80.1,
+    "on_field": 35.1,
+    "off_field": 45
+  },
+  {
+    "name": "Justin Herbert",
+    "sport": "Football",
+    "total_earning": 78,
+    "on_field": 67,
+    "off_field": 11
+  }
+]

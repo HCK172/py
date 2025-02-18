@@ -1,0 +1,20 @@
+
+Todo list: 
+1. user input for the names
+2. Show the questions comparing A and Ｂ
+    - randomly select athlete in the data
+    - two random number can not be the same 
+3. user input the answer
+4. calculate how many answers that the user got right 
+    - check if the answer was right or wrong 
+    - if right then score +1 
+5. user can exit the progrma and time during the game
+
+
+{
+    "name": "",
+    "sport": "",
+    "total_earning":  * M, 
+    "on_field": * M,
+    "off_field":  * M
+},
