@@ -1,0 +1,37 @@
+
+Method ()
+.upper()
+.lower()
+.
+
+Variables & data type
+- Variables are labels
+- Naming a variable: learn how to create good variable name
+
+string
+1. changing case with Method
+    - upper()
+    - lower(): useful for storing data
+    - capitalize()
+    - title()
+2. using variable in a string: f.format
+3.adding whitespace using tabs/newlines in strings
+4. striping white space 
+    - lstrip(), rstipe(), stripe()
+5. Errors: Syntax error 
+    - tracebacl
+
+Lists
+1. accessing/indexing elements []
+2. index postion 
+3. changing/adding/removing elements
+    - modifying element in a list: reassign variable
+    - adding element to the end: append()
+    - insert element in a list: insert(postion, string)
+    - removing element
+        - remove item using del
+        - pop() -> last item or with postion
+        - remove() -> remove by value, only remove first value if duplicate
+        
+
+
